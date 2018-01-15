@@ -10,7 +10,7 @@ docBody.addEventListener('keydown', function(e) {
     // console.log(e.which);
     
     onKeyDownHandler(e);
-})  
+});
 } // end function init 
 
 
