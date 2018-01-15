@@ -12,7 +12,6 @@ docBody.addEventListener('keydown', function(e) {
 });
 } // end function init 
 
-
 // Keep track of index outside of the event handler.
 let index = 0;
  
