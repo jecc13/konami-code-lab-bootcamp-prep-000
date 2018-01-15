@@ -4,7 +4,6 @@ const code = [65, 66, 67]; // A B C
 // Keep track of index outside of the event handler.
 let index = 0;
 
-
 function init() {
   // Write your JavaScript code inside the init() function
 
