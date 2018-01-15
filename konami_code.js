@@ -3,7 +3,6 @@ const code = [65, 66, 67]; // A B C
 
 function init() {
   // Write your JavaScript code inside the init() function
-
 const docBody = document.querySelector('body');
  
 docBody.addEventListener('keydown', function(e) {
