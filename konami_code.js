@@ -7,7 +7,8 @@ const docBody = document.querySelector('body');
  
 docBody.addEventListener('keydown', function(e) {
     // shows ascii code for the key pressed
-//    console.log(e.which);
+    // console.log(e.which);
+    
     onKeyDownHandler(e);
 })  
 } // end function init 
