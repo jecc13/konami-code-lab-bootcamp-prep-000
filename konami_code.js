@@ -14,7 +14,7 @@ docBody.addEventListener('keydown', function(e) {
 
 
 // Key codes for A, B, and C keys.
-const alphabet = [65, 66, 67];
+const alphabet = [65, 66, 67, 38, 38];
  
 // Keep track of index outside of the event handler.
 let index = 0;
