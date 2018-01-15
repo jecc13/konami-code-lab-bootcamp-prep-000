@@ -9,10 +9,10 @@ function init() {
 const docBody = document.querySelector('body');
  
 docBody.addEventListener('keydown', function(e) {
+    onKeyDownHandler(e);
+
     // shows ascii code for the key pressed
     // console.log(e.which);
-    
-    onKeyDownHandler(e);
 });
 } // end function init 
 
